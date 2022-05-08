@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/azimov-challenge/static/css/main.5ecbaef7.css",
+    "main.js": "/azimov-challenge/static/js/main.a9c8778f.js",
+    "static/js/787.564573f9.chunk.js": "/azimov-challenge/static/js/787.564573f9.chunk.js",
+    "index.html": "/azimov-challenge/index.html",
+    "main.5ecbaef7.css.map": "/azimov-challenge/static/css/main.5ecbaef7.css.map",
+    "main.a9c8778f.js.map": "/azimov-challenge/static/js/main.a9c8778f.js.map",
+    "787.564573f9.chunk.js.map": "/azimov-challenge/static/js/787.564573f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ecbaef7.css",
+    "static/js/main.a9c8778f.js"
+  ]
+}
